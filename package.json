@@ -1,0 +1,16 @@
+{
+  "name": "v0x3l-666ax",
+  "version": "0.1.0",
+  "description": "V0X3L-666AX — clean-room voxel-sandbox core (deterministic).",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "vitest": "^2.0.0"
+  },
+  "license": "MIT"
+}
